@@ -9,10 +9,10 @@
     "summary": "I am studying for a B.B.A in Management Information Systems at Shidler College of Business in the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "bradms", "url": "http://bradms.github.io" },
+      { "network": "linkedin", "username": "bradms", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "bradms", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "bradms", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
